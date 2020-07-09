@@ -1,1 +1,1 @@
-FROM tirapareddy/ace11.9-with-bars:3.0
+FROM tirapareddy/ace11.9-with-bars:1.1.4
